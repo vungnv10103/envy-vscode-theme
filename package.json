@@ -1,0 +1,36 @@
+{
+  "name": "envy-theme-dark",
+  "displayName": "Envy Dark Modern Theme",
+  "description": "Envy Dark Modern Theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "envy",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vungnv10103/envy-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/vungnv10103/envy-vscode-theme/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "envy theme"
+  ],
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Envy Dark Modern Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/envy_dark_modern.json"
+      }
+    ]
+  }
+}
