@@ -1,6 +1,9 @@
 # Envy's VS Code themes
 
-![Envy VS Code theme](https://github.com/user-attachments/assets/b0738942-7e14-442e-867e-e07b887e1e8c)
+### Dark theme
+![Envy VS Code dark theme](https://github.com/user-attachments/assets/7edb8b5a-929c-4d1f-a5fe-1347a5b587a5)
+### Light theme
+![Envy VS Code light theme](https://github.com/user-attachments/assets/fbfc5b21-46ac-4525-a893-760afeba8194)
 
 ## Install
 
