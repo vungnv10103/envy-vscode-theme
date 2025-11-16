@@ -1,7 +1,7 @@
 {
   "name": "envy-theme-dark",
-  "displayName": "Envy Dark Modern Theme",
-  "description": "Envy Dark Modern Theme for Visual Studio Code",
+  "displayName": "Envy Modern Theme",
+  "description": "Envy Modern Theme for Visual Studio Code",
   "version": "0.2.0",
   "publisher": "envy",
   "license": "MIT",
@@ -16,6 +16,7 @@
   "keywords": [
     "theme",
     "dark theme",
+    "light theme",
     "envy theme"
   ],
   "engines": {
